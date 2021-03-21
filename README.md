@@ -1,5 +1,5 @@
 # ServerJump
-ServerJump plugin allows you to send players accross servers in BungeeCord.
+ServerJump plugin allows you to send players across servers in BungeeCord.
 
 ### How to install?
 1. Put your <a href="https://github.com/Zettovec/ServerJump/releases/">.jar file</a> into the your server's `plugins/` folder. (Not BungeeCord.)
