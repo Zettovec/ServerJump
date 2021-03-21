@@ -8,6 +8,9 @@ ServerJump plugin allows you to send players accross servers in BungeeCord.
 
 ### How to use?
 - Use command `/jump <player> <server>` from your server's console (Not BungeeCord.)
+- You may change the messages in `plugins/ServerJump/config.yml`
+
+**Warning:** Players **can't** use this command (only the console can) - and this behaviour is intended.
 
 #### Skript Addon
 Do you use Skript to develop your own plugins? I am working on a Skript addon for this plugin. 
