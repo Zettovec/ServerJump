@@ -1,0 +1,9 @@
+name: ServerJump
+version: 0.1.2
+author: Nikd0
+main: ga.nikd0.ServerJump.ServerJump
+api-version: 1.16
+commands:
+  jump:
+    description: Jump to another Bungeecord connected server
+    usage: /jump <player> <server>
